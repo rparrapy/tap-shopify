@@ -539,7 +539,7 @@
       "applied_discount": {
         "type": [
           "null",
-          "integer"
+          "object"
         ]
       },
       "fulfillable_quantity": {
